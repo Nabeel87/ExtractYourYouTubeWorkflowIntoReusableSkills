@@ -30,6 +30,14 @@ Production-ready Markdown in `notes/`:
 ## Quality Improvement
 3x virality (data-driven niches/topics, optimized prompts, consistent SEO) → 1M+ view potential.
 
+## Skills & Agent Details
+- **niche_discovery**: Identifies 3-5 low-comp, high-volume niches from interest.
+- **topic_generator**: Generates 15 viral topics per niche, selects top.
+- **image_prompt_builder**: Creates Midjourney/DALL-E thumbnails with clickbait hooks.
+- **video_prompt_generator**: Builds Runway/Sora cinematic scene prompts.
+- **prompt_optimizer**: Polishes prompts + generates script/SEO for virality.
+- **youtube-creator-agent**: Orchestrates all skills into full packages with user niche selection.
+
 ## Examples
 `notes/` packages: fitness-muscle-home.md, pakistani-cricket.md.
 
