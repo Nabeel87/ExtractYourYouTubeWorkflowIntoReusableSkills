@@ -1,0 +1,6 @@
+langchain
+pydantic
+python-dotenv
+google-trends-api
+streamlit
+openai
